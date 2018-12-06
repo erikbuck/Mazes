@@ -1,1 +1,1 @@
-![Image of Maze](http://cdn.rawgit.com/erikbuck/Mazes/Maze05.png)
+![Image of Maze](http://cdn.rawgit.com/erikbuck/Mazes/maze05.png)
